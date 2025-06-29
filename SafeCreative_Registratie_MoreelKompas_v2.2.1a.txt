@@ -1,0 +1,24 @@
+📜 SAFE CREATIVE-REGISTRATIE – HET MOREEL KOMPAS v2.2.1a
+
+Geregistreerd werk:
+Het Moreel Kompas v2.2.1a – Richtlijnen en Spanningsvelden
+
+Auteur:
+H.S. van Aken
+
+Datum van registratie:
+29 juni 2025 – 19:16 UTC
+
+Registratie-ID:
+2506292328597
+Registratiepagina: https://www.safecreative.org/work/2506292328597
+Certificaat (PDF): certificate_2506292328597_en.pdf
+
+Cryptografische vingerafdrukken:
+- SHA-1:    72cc75c3eec079a51df2cb734744b40ef6ce49ba
+- SHA-256:  6e007c645f720967e6167540e4429cd7665ac117db322045b3fcfc9c57cde73a
+- SHA-512:  87fbc170bc88c333e1aa5f34009b098669287265efcd5109cc0baf4d24d715ce108222c436219170b6cd1db4b60951ff50c3878ae69279217db66b0808d27eb8
+
+Licentie:
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
